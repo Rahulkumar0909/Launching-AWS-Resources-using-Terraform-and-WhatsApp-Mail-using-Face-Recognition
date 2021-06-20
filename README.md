@@ -7,7 +7,7 @@
 
 ## Run code
 
-*** Configure AWS for Terraform
+### Configure AWS for Terraform
 
 ## Run
 
